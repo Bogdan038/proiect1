@@ -1,0 +1,18 @@
+body{
+    background-color: cadetblue;
+    margin: 50px;
+}
+p {
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid rgb(red, green, rgb(25, 0, 255));
+    border-radius: 5%;
+    font-size: 30px;
+
+    
+}
+div{
+    color: blue;
+    text-align: center;
+    width: 80%;
+}
